@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim
 Olá! Sou Jonatas Abner, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Front-end focado em criar interfaces intuitivas e responsivas. Busco aprimorar minhas habilidades com React, TypeScript, JavaScript, HTML, CSS e outras tecnologias modernas.<br><br><br>💡 O que você encontrará aqui?<br>🔹 Projetos práticos aplicando boas práticas de código<br>🔹 Aplicações interativas e responsivas<br>🔹 Código limpo, organizado e com versionamento adequado <br>🔹 Integração com APIs e serviços em nuvem (AWS)<br><br><br>📌 Atualmente aprimorando:<br>✔️ Performance e acessibilidade em aplicações web<br>✔️ Princípios de UI/UX para interfaces mais eficientes
 
 
